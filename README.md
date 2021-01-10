@@ -122,6 +122,9 @@ basket.add(pillow)
 puts basket.total # => 67.86
 ```
 
+\* you can copy/paste this code to a rb file and execute as `ruby example.rb`
+
+
 ## Testing
 
 Execute `bundle exec rspec` within the project folder, and the output result should be:
